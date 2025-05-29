@@ -1,4 +1,4 @@
-const scriptURL = 'COLE_AQUI_A_URL_DO_SCRIPT_DO_GOOGLE';
+const scriptURL = 'https://script.google.com/macros/s/AKfycbyOk4_7rI4jqeen1jvyJ2ncVAgnNJAs79BbHRdks6_6X0JW_wqzjidTgZhi1kSCPuxR/exec';
     const form = document.getElementById('contact-form');
     const status = document.getElementById('status');
 
